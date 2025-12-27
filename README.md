@@ -172,7 +172,7 @@ Telegram Services
      width="24" style="vertical-align: middle; margin-right:6px;">
 X (Twitter) Services
 
-<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="120">
+<img src="https://github.com/user-attachments/assets/ecdbe890-7713-4737-a4f6-701803b2e7e3" width="400">
 
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng follow  
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Like – repost  
