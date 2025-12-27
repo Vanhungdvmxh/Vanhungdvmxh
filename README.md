@@ -51,7 +51,7 @@
 </p>
 
 <!-- BANNER -->
-<img src="https://github.com/user-attachments/assets/099408ed-baec-4873-bdd0-e5c275c49a38" width="100%">
+<img src="https://github.com/user-attachments/assets/469a0beb-a8db-467f-9b53-1b180de05944" width="100%">
 
 ---
 
