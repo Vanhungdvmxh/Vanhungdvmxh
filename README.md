@@ -1,13 +1,18 @@
 <!-- divider -->
 <img src="https://github.com/user-attachments/assets/1b6f7e1a-6334-4b9d-91c2-db429f4751f4" width="100%">
 
-<h1 align="center">👋 HELLO MỌI NGƯỜI, MÌNH LÀ VĂN HÙNG 🖥</h1>
+<h1 align="center">
+  👋 HELLO MỌI NGƯỜI, MÌNH LÀ VĂN HÙNG
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif"
+       width="22"
+       style="vertical-align:middle;margin-left:6px;">
+</h1>
 
 <p align="center">
   <b>DỊCH VỤ MXH – ALL BLACK – MMO</b>
 </p>
 
-<!-- LIÊN HỆ (Có tích xanh + GIF FB + GIF Gmail) -->
+<!-- LIÊN HỆ -->
 <p align="center">
 
   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
@@ -59,7 +64,7 @@
 
 ### 
 <img src="https://github.com/user-attachments/assets/f3300b5a-eecb-4fd4-b97a-3a8a84d0de12"
-     width="26" style="vertical-align: middle; margin-right:6px;" />
+     width="26" style="vertical-align: middle; margin-right:6px;">
 Facebook Services
 
 <img src="https://github.com/user-attachments/assets/8c49e68d-d383-41bb-8713-3fe88c64b2f8" width="100%">
@@ -71,11 +76,22 @@ Facebook Services
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ tích xanh Facebook  
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Chạy quảng cáo fanpage  
 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Bán VIA chat support  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA kháng 956 – 282 – 565 – 323  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhiều loại VIA kháng ALL dạng quá  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA xác minh danh tính  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA Châu Mỹ – Châu Âu – Châu Á – Nam Mỹ  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA chuyên lên tích xanh  
+
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận unlock ALL page  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận dame FB mạo danh (hỗ trợ giấy tờ)  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ chạy tiếp thị liên kết Facebook  
+
 ---
 
 ### 
 <img src="https://github.com/user-attachments/assets/a8f09207-f0bf-496a-b565-575de01c603c"
-     width="24" style="vertical-align: middle; margin-right:6px;" />
+     width="24" style="vertical-align: middle; margin-right:6px;">
 TikTok Services
 
 <img src="https://github.com/user-attachments/assets/b612699e-637e-4999-ad19-523d63da3f0d" width="400">
@@ -85,11 +101,17 @@ TikTok Services
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng mắt xem livestream  
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Đẩy video lên xu hướng  
 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận mở giỏ hàng TikTok Shop  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Lên nghệ sĩ / Creator TikTok  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Lên tích xanh TikTok chính chủ  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Chạy Advertisement TikTok  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Bán & thu acc TikTok số lượng lớn (SLL)
+
 ---
 
 ### 
 <img src="https://github.com/user-attachments/assets/998fdd63-be32-4b8d-aa26-82ed06121eeb"
-     width="24" style="vertical-align: middle; margin-right:6px;" />
+     width="24" style="vertical-align: middle; margin-right:6px;">
 Instagram Services
 
 <img src="https://github.com/user-attachments/assets/5e2fa7f7-bb5f-4d6e-aa7b-e8e88495de9b" width="400">
@@ -99,11 +121,20 @@ Instagram Services
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Story / Reels  
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng tương tác ổn định  
 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Bán VIA Instagram cổ  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA Instagram Châu Âu  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA Instagram Châu Á  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA Instagram Châu Mỹ  
+
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Bán VIA tích xanh Instagram  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận unlock / log all dạng khóa Instagram  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Chạy mắt xem Instagram  
+
 ---
 
 ### 
 <img src="https://github.com/user-attachments/assets/3c4ee2b4-ca35-4f96-858c-d8e63407dec5"
-     width="24" style="vertical-align: middle; margin-right:6px;" />
+     width="24" style="vertical-align: middle; margin-right:6px;">
 YouTube Services
 
 <img src="https://github.com/user-attachments/assets/34f63600-defc-4fdf-a0a6-27f54ab3d06e" width="400">
@@ -115,7 +146,11 @@ YouTube Services
 
 ---
 
-### ✈️ Telegram Services
+### 
+<img src="https://github.com/user-attachments/assets/1b969d64-3b97-4266-b234-5000278510d7"
+     width="24" style="vertical-align: middle; margin-right:6px;">
+Telegram Services
+
 <img src="https://github.com/user-attachments/assets/bcae6589-540d-478d-b4b9-4ab565a88c4f" width="400">
 
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng member  
@@ -126,7 +161,7 @@ YouTube Services
 
 ### 
 <img src="https://github.com/user-attachments/assets/974f983b-2c7e-4699-937f-74798f3612c9"
-     width="24" style="vertical-align: middle; margin-right:6px;" />
+     width="24" style="vertical-align: middle; margin-right:6px;">
 X (Twitter) Services
 
 <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="120">
@@ -143,7 +178,5 @@ X (Twitter) Services
   ⚠️ <i>CRE: DAOVANHUNG</i>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![](https://komarev.com/ghpvc/?username=Vanhungdvmxh&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=Vanhungdvmxh=dc143c)
+![](https://komarev.com/ghpvc/?username=Vanhhungdvmxh&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Vanhhungdvmxh=dc143c)
