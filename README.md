@@ -20,35 +20,30 @@
        style="height:20px; width:auto; vertical-align:middle; margin-left:8px;" alt="badge-after-mmo">
 </p>
 
-<!-- LIÊN HỆ -->
-<p align="center">
+<!-- LIÊN HỆ (SỬA: căn thẳng hàng bằng inline-flex) -->
+<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:8px; margin-bottom:12px;">
+  <div style="display:inline-flex; align-items:center; gap:8px;">
+    <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="16" style="vertical-align:middle;">
+    <img src="https://github.com/user-attachments/assets/f3300b5a-eecb-4fd4-b97a-3a8a84d0de12" width="18" style="vertical-align:middle;">
+    <span>Facebook: <a href="https://www.facebook.com/thichanchoichopte?mibextid=LQQJ4d" target="_blank">LIÊN HỆ TÔI</a></span>
+  </div>
 
-  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
-       width="16" style="vertical-align:middle;margin-right:6px;">
-  <img src="https://github.com/user-attachments/assets/f3300b5a-eecb-4fd4-b97a-3a8a84d0de12"
-       width="18" style="vertical-align:middle;margin-right:6px;">
-  Facebook:
-  <a href="https://www.facebook.com/thichanchoichopte?mibextid=LQQJ4d">LIÊN HỆ TÔI</a>
-  <br>
+  <div style="display:inline-flex; align-items:center; gap:8px;">
+    <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="16" style="vertical-align:middle;">
+    <span>Telegram: <a href="https://t.me/DVMXH_HATOKI" target="_blank">@DVMXH_HATOKI</a></span>
+  </div>
 
-  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
-       width="16" style="vertical-align:middle;margin-right:6px;">
-  Telegram:
-  <a href="https://t.me/DVMXH_HATOKI">@DVMXH_HATOKI</a>
-  <br>
+  <div style="display:inline-flex; align-items:center; gap:8px;">
+    <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="16" style="vertical-align:middle;">
+    <span>Zalo: 0764108025</span>
+  </div>
 
-  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
-       width="16" style="vertical-align:middle;margin-right:6px;">
-  Zalo: 0764108025
-  <br>
-
-  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
-       width="16" style="vertical-align:middle;margin-right:6px;">
-  <img src="https://github.com/user-attachments/assets/e77d0f3e-43b3-4c0b-924e-3242df426b9e"
-       width="18" style="vertical-align:middle;margin-right:6px;">
-  Email: vanhung0764108025@gmail.com
-
-</p>
+  <div style="display:inline-flex; align-items:center; gap:8px;">
+    <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="16" style="vertical-align:middle;">
+    <img src="https://github.com/user-attachments/assets/e77d0f3e-43b3-4c0b-924e-3242df426b9e" width="18" style="vertical-align:middle;">
+    <span>Email: vanhung0764108025@gmail.com</span>
+  </div>
+</div>
 
 <!-- BANNER -->
 <img src="https://github.com/user-attachments/assets/41a29e41-fce9-4922-862f-0deb07ac4033" width="100%">
@@ -218,12 +213,17 @@ X (Twitter) Services
     💼 Tư vấn & triển khai giải pháp code & tool chuyên nghiệp, nâng tầm dự án MXH, đảm bảo workflow mượt mà và đạt hiệu quả tối đa.
   </li>
 </ul>
-</h3>
+
 <img src="https://github.com/user-attachments/assets/a811e47c-2f8a-4a9b-bbf3-440cc25e98b5" width="100%">
 
 <p align="center">
-  ⚠️ <i>CRE: DAOVANHUNG</i>  <img src="https://github.com/user-attachments/assets/8b5a8534-7f3b-4e66-9bd3-8f8b2c49e20d" 
-       style="height:18px; width:auto; vertical-align:middle; margin-left:4px;" alt="verified-gif">
+  ⚠️ <i>CRE: DAOVANHUNG</i>  
+  <img src="https://github.com/user-attachments/assets/8b5a8534-7f3b-4e66-9bd3-8f8b2c49e20d" style="height:18px; width:auto; vertical-align:middle; margin-left:4px;" alt="verified-gif">
+</p>
+
+<!-- explicit clickable GitHub link (nhấp hoặc dán vào trình duyệt đều vào thẳng profile) -->
+<p align="center">
+  <a href="https://github.com/Vanhhungdvmxh" target="_blank">https://github.com/Vanhhungdvmxh</a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Vanhhungdvmxh&label=PROFILE+VIEWS)
