@@ -31,18 +31,20 @@
       <strong>Facebook:</strong> 
       <a href="https://www.facebook.com/thichanchoichopte?mibextid=LQQJ4d">@ĐÀOVĂNHÙNG_💥💢💫</a>
     </div>
-
   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
        width="16" style="vertical-align:middle;margin-right:6px;">
+  <img src="https://github.com/user-attachments/assets/1b969d64-3b97-4266-b234-5000278510d7"
+     width="24" style="vertical-align: middle; margin-right:6px;">
   Telegram:
   <a href="https://t.me/DVMXH_HATOKI">@DVMXH_HATOKI</a>
   <br>
 
   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
        width="16" style="vertical-align:middle;margin-right:6px;">
+  <img src="https://github.com/user-attachments/assets/1b969d64-3b97-4266-b234-5000278510d7"
+     width="24" style="vertical-align: middle; margin-right:6px;">
   Zalo: 0764108025
   <br>
-
   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
        width="16" style="vertical-align:middle;margin-right:6px;">
   <img src="https://github.com/user-attachments/assets/e77d0f3e-43b3-4c0b-924e-3242df426b9e"
