@@ -21,15 +21,16 @@
 </p>
 
 
-<!-- LIÊN HỆ -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
-       width="16" style="vertical-align:middle;margin-right:6px;">
-  <img src="https://github.com/user-attachments/assets/f3300b5a-eecb-4fd4-b97a-3a8a84d0de12"
-       width="18" style="vertical-align:middle;margin-right:6px;">
-  Facebook:
-  <a href="https://www.facebook.com/thichanchoichopte?mibextid=LQQJ4d">@ĐÀOVĂNHÙNG_💥💢💫</a>
-  <br>
+<!-- LIÊN HỆ - ĐÃ SỬA CHO THẲNG HÀNG -->
+<div align="center">
+  <div align="left" style="display: inline-block; text-align: left;">
+    <!-- Facebook -->
+    <div style="margin-bottom: 8px;">
+      <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="16" style="vertical-align:middle; margin-right: 6px;">
+      <img src="https://github.com/user-attachments/assets/f3300b5a-eecb-4fd4-b97a-3a8a84d0de12" width="18" style="vertical-align:middle; margin-right: 6px;">
+      <strong>Facebook:</strong> 
+      <a href="https://www.facebook.com/thichanchoichopte?mibextid=LQQJ4d">@ĐÀOVĂNHÙNG_💥💢💫</a>
+    </div>
 
   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
        width="16" style="vertical-align:middle;margin-right:6px;">
