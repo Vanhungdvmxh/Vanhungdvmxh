@@ -15,7 +15,7 @@
 <p align="center">
   <b>DỊCH VỤ MXH – ALL BLACK – MMO</b>
   <img src="https://github.com/user-attachments/assets/6c82cb4a-422e-40da-a8ed-dc17b7cc74ab"
-       style="height:20px; width:auto; vertical-align:middle; margin-left:8px;" alt="badge-after-mmo">
+       style="height:15px; width:auto; vertical-align:middle; margin-left:1000px;" alt="badge-after-mmo">
 </p>
 
 <!-- LIÊN HỆ - ĐÃ SỬA CHO THẲNG HÀNG -->
