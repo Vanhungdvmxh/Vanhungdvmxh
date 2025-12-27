@@ -20,7 +20,6 @@
        style="height:20px; width:auto; vertical-align:middle; margin-left:8px;" alt="badge-after-mmo">
 </p>
 
-
 <!-- LIÊN HỆ - ĐÃ SỬA CHO THẲNG HÀNG -->
 <div align="center">
   <div align="left" style="display: inline-block; text-align: left;">
@@ -54,18 +53,7 @@
 </p>
 
 <!-- BANNER -->
-<img src="https://github.com/user-attachments/assets/41a29e41-fce9-4922-862f-0deb07ac4033" width="100%">
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/17ce2568-050a-4389-9713-e45d5ea55124" style="width:90%;max-width:380px;">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/4a62b541-410e-4d46-ab1a-a47302e2f3f5" style="width:90%;max-width:380px;">
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/71901cc8-02fa-42bd-9e81-649430b6ecd1" width="100%">
 
 ---
 
