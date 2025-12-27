@@ -7,8 +7,6 @@
     <img src="https://github.com/user-attachments/assets/e2a28596-a8bd-458f-ac20-4523487470eb"
          style="height:34px; width:auto; vertical-align:middle;" alt="flag-left">
     <strong style="font-size:20px; letter-spacing:2px;">VĂN HÙNG</strong>
-    <img src="https://github.com/user-attachments/assets/6c82cb4a-422e-40da-a8ed-dc17b7cc74ab"
-         style="height:32px; width:auto; vertical-align:middle;" alt="verified-gif">
     <img src="https://github.com/user-attachments/assets/460a677a-ac56-4e62-94bc-93651daf2d77"
          style="height:34px; width:auto; vertical-align:middle;" alt="flag-right">
   </span>
