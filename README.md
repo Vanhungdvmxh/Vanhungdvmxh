@@ -44,7 +44,7 @@
   <img src="https://github.com/user-attachments/assets/1b969d64-3b97-4266-b234-5000278510d7"
      width="24" style="vertical-align: middle; margin-right:6px;">
   Zalo: 
-  <a href="https://zalo.com/0764108025">0764108025</a>
+  <a href="https://zalo.me/076418025">0764108025</a>
   <br>
   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
        width="16" style="vertical-align:middle;margin-right:6px;">
