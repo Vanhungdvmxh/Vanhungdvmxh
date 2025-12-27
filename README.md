@@ -36,7 +36,7 @@
   <img src="https://github.com/user-attachments/assets/1b969d64-3b97-4266-b234-5000278510d7"
      width="24" style="vertical-align: middle; margin-right:6px;">
   Telegram:
-  <a href="https://t.me/DVMXH_HATOKI">@DVMXH_HATOKI</a>
+  <a href="https://t.me/DVMXHHATOKI">@DVMXHHATOKI</a>
   <br>
 
   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957"
