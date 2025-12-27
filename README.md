@@ -118,7 +118,7 @@ TikTok Services
 ---
 
 ### 
-<img src="https://github.com/user-attachments/assets/998fdd63-be32-4b8d-aa26-82ed06121eeb"
+<img src="https://github.com/user-attachments/assets/4969e3fb-37a1-4b01-8a17-235515accb0c"
      width="24" style="vertical-align: middle; margin-right:6px;">
 Instagram Services
 
@@ -141,7 +141,7 @@ Instagram Services
 ---
 
 ### 
-<img src="https://github.com/user-attachments/assets/3c4ee2b4-ca35-4f96-858c-d8e63407dec5"
+<img src="https://github.com/user-attachments/assets/e5397e41-b33b-42da-8955-b3749b44f754"
      width="24" style="vertical-align: middle; margin-right:6px;">
 YouTube Services
 
