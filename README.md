@@ -179,10 +179,51 @@ X (Twitter) Services
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> View bài viết  
 
 ---
+<!-- CODE & TOOLS VIP -->
+<h3>
+  <img src="https://github.com/user-attachments/assets/8b5a8534-7f3b-4e66-9bd3-8f8b2c49e20d" 
+       style="height:26px; width:auto; vertical-align:middle; margin-right:6px;" alt="verified-gif">
+  💻 Code & Tools VIP
+</h3>
+
+<ul>
+  <li>
+    <img src="https://github.com/user-attachments/assets/3a93a02c-bf4c-4a25-bfc3-f4e24e076c0a"
+         width="26" style="vertical-align: middle; margin-right:6px;" alt="GIF1">
+    💡 Viết script tự động Facebook, TikTok, Instagram – đơn giản hóa mọi thao tác từ đăng bài, tương tác đến quản lý livestream hay quảng cáo, giúp tiết kiệm thời gian và tối ưu hiệu quả.
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/5cb3d444-11a3-490d-8d33-b24749a3759a"
+         width="26" style="vertical-align: middle; margin-right:6px;" alt="GIF2">
+    ⚡ Xây dựng bot và tool quản lý MXH, tự động hóa tương tác, kiểm soát toàn bộ hoạt động và nâng cao chất lượng engagement.
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/485d4c13-bc0c-4496-a172-af1b8bfa7480"
+         width="26" style="vertical-align: middle; margin-right:6px;" alt="GIF3">
+    🔧 Hỗ trợ lập trình Python, JS, PHP theo yêu cầu – từ script cơ bản đến tool nâng cao, đảm bảo chuẩn code, bảo mật và dễ nâng cấp.
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/432b9b0d-ea57-4958-92cc-967d52366772"
+         width="26" style="vertical-align: middle; margin-right:6px;" alt="GIF4">
+    🎯 Tùy biến và tối ưu tool, tăng tốc độ, giảm tải tài nguyên, tối ưu hiệu suất cho cá nhân và doanh nghiệp.
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/33372ad9-2881-41a8-98bf-030272228c1a"
+         width="26" style="vertical-align: middle; margin-right:6px;" alt="GIF5">
+    📚 Viết tut chi tiết kèm video hướng dẫn trực quan, dễ hiểu, giúp ai cũng thực hiện được từ A đến Z mà không cần kinh nghiệm.
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/e6e7a2f9-f40f-43e9-b77d-9495c63368fb"
+         width="26" style="vertical-align: middle; margin-right:6px;" alt="GIF6">
+    💼 Tư vấn & triển khai giải pháp code & tool chuyên nghiệp, nâng tầm dự án MXH, đảm bảo workflow mượt mà và đạt hiệu quả tối đa.
+  </li>
+</ul>
+</h3>
 <img src="https://github.com/user-attachments/assets/a811e47c-2f8a-4a9b-bbf3-440cc25e98b5" width="100%">
 
 <p align="center">
-  ⚠️ <i>CRE: DAOVANHUNG</i>
+  ⚠️ <i>CRE: DAOVANHUNG</i>  <img src="https://github.com/user-attachments/assets/8b5a8534-7f3b-4e66-9bd3-8f8b2c49e20d" 
+       style="height:18px; width:auto; vertical-align:middle; margin-left:4px;" alt="verified-gif">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Vanhhungdvmxh&label=PROFILE+VIEWS)
