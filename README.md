@@ -56,7 +56,6 @@
 ---
 
 ## 🚀 TẤT CẢ DỊCH VỤ MXH BÊN TÔI
-
 ---
 
 ### 
@@ -66,23 +65,24 @@ Facebook Services
 
 <img src="https://github.com/user-attachments/assets/8c49e68d-d383-41bb-8713-3fe88c64b2f8" width="100%">
 
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Chạy Flow trang cá nhân / fanpage  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng like – share – view – comment  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng mắt xem livestream Facebook  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ mở khóa Facebook  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ tích xanh Facebook  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Chạy quảng cáo fanpage  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Chạy Flow trang cá nhân / fanpage <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14">  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng like – share – view – comment <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Tăng mắt xem livestream Facebook <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14">  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ mở khóa Facebook <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ tích xanh Facebook <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Chạy quảng cáo fanpage <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
 
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Bán VIA chat support  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA kháng 956 – 282 – 565 – 323  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhiều loại VIA kháng ALL dạng quá  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA xác minh danh tính  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA Châu Mỹ – Châu Âu – Châu Á – Nam Mỹ  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA chuyên lên tích xanh  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Bán VIA chat support <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA kháng 956 – 282 – 565 – 323 <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhiều loại VIA kháng,Via BMT,BMT 250$-500$ <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA xác minh danh tính  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA Châu Mỹ – Châu Âu – Châu Á – Nam Mỹ  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> VIA chuyên lên tích xanh   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
 
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận unlock ALL page  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận dame FB mạo danh (hỗ trợ giấy tờ)  
-- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ chạy tiếp thị liên kết Facebook  
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận unlock ALL page   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận dame,tip tài khoản FB đối thủ  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+-  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Nhận đấm Page fake,làm ăn all  <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
+- <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> Hỗ trợ chạy tiếp thị liên kết Facebook   <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> 
 
 ---
 
