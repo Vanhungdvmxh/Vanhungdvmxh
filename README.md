@@ -1,15 +1,23 @@
 <!-- divider -->
 <img src="https://github.com/user-attachments/assets/1b6f7e1a-6334-4b9d-91c2-db429f4751f4" width="100%">
 
-<h1 align="center">
-  👋 HELLO MỌI NGƯỜI, MÌNH LÀ VĂN HÙNG
-  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif"
-       width="22"
-       style="vertical-align:middle;margin-left:6px;">
+<h1 align="center" style="line-height:1.1;">
+  <!-- wrapper để căn chỉnh ngang hàng, giữ responsive -->
+  <span style="display:inline-flex; align-items:center; gap:10px; justify-content:center; flex-wrap:wrap;">
+    <img src="https://github.com/user-attachments/assets/e2a28596-a8bd-458f-ac20-4523487470eb"
+         style="height:34px; width:auto; vertical-align:middle;" alt="flag-left">
+    <strong style="font-size:20px; letter-spacing:2px;">VĂN HÙNG</strong>
+    <img src="https://github.com/user-attachments/assets/6c82cb4a-422e-40da-a8ed-dc17b7cc74ab"
+         style="height:32px; width:auto; vertical-align:middle;" alt="verified-gif">
+    <img src="https://github.com/user-attachments/assets/460a677a-ac56-4e62-94bc-93651daf2d77"
+         style="height:34px; width:auto; vertical-align:middle;" alt="flag-right">
+  </span>
 </h1>
 
 <p align="center">
   <b>DỊCH VỤ MXH – ALL BLACK – MMO</b>
+  <img src="https://github.com/user-attachments/assets/6c82cb4a-422e-40da-a8ed-dc17b7cc74ab"
+       style="height:20px; width:auto; vertical-align:middle; margin-left:8px;" alt="badge-after-mmo">
 </p>
 
 <!-- LIÊN HỆ -->
