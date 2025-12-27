@@ -179,8 +179,7 @@ X (Twitter) Services
 - <img src="https://github.com/user-attachments/assets/49fd5168-3b4f-45be-8d1a-bd43c61ee957" width="14"> View bài viết  
 
 ---
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400">
+<img src="https://github.com/user-attachments/assets/a811e47c-2f8a-4a9b-bbf3-440cc25e98b5" width="100%">
 
 <p align="center">
   ⚠️ <i>CRE: DAOVANHUNG</i>
